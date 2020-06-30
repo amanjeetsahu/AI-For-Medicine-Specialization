@@ -148,3 +148,7 @@ Medical treatment may impact patients differently based on their existing health
 - Interpret random forest models
 
 ---
+
+
+# Certificate 
+![Certificate](https://i.ibb.co/xsBpqsx/image.png)
